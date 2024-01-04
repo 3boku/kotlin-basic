@@ -36,5 +36,8 @@ fun main() {
 
 ## 상수
 ```kotlin
-
+fun main() {
+    val primary = 20
+    //기본 상수형
+}
 ```
